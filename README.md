@@ -44,25 +44,78 @@ We analyzed four recycling apps from Latin America—Reciclapp (Chile), VerdeCli
 
 Overall, while these apps demonstrate valuable features individually—such as education, community engagement, scanning, and rewards—none fully integrates all these elements with a focus on the Chilean context. Our app intends to fill this gap by combining these functionalities into a seamless and localized solution that promotes sustainable recycling habits effectively.
 
+![Benchmark](https://github.com/J0RG3-/Loopa/blob/main/Benchamark%20Apps%20reciclaje.png)
+
 
 ## 5. UX Personas
 
 To better understand the needs, motivations, and behaviors of our target users, we have developed three distinct UX personas. These personas represent typical users who will interact with our recycling app, allowing us to tailor the design and functionality to meet their specific requirements. By focusing on these user archetypes, we aim to create a more user-centered experience that encourages effective recycling habits and sustained engagement.
 
+![UXpersona](https://github.com/J0RG3-/Loopa/blob/main/UX%20Persona%20-%20Valentina%20Rojas.png)
+![UXpersona](https://github.com/J0RG3-/Loopa/blob/main/UX%20Persona%20-%20Juan%20Tapia.png)
+![UXpersona](https://github.com/J0RG3-/Loopa/blob/main/UX%20Persona%20-%20Marta%20Gonz%C3%A1lez.png)
 
 ## 6. Value Proposition Canvas
 
 The Value Proposition Canvas helps us clearly define the relationship between our users’ needs and the solutions our app provides. By mapping out user jobs, pains, and gains alongside our product’s features and benefits, we ensure that our solution effectively addresses real problems and creates meaningful value for users.
 
+![CanvasDeValor](https://github.com/J0RG3-/Loopa/blob/main/Canvas%20de%20valor.jpg)
+
+
 ## 7. Customer Journey Map
 
 The Customer Journey Map visualizes the step-by-step experience of a user interacting with our app. It highlights the user’s goals, actions, emotions, pain points, and touchpoints throughout their journey. This helps us understand user behavior, identify opportunities for improvement, and design a smoother, more satisfying experience tailored to their needs.
 
+![CJM](https://github.com/J0RG3-/Loopa/blob/main/User%20Journey%20Map.jpg)
+
+
 ## 8. Low-Fidelity Proposal (Initial Mockups)
 Below are the initial low-fidelity mockups that outline the basic structure and user flow of the application. These sketches emphasize functionality and navigation without focusing on visual details, allowing us to quickly identify usability issues and gather feedback early in the design process.
 
+### Onboarding and Access
+![Splash screen](https://github.com/J0RG3-/Loopa/blob/main/Wireframes%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Splash%20screen.png?raw=true)
+![Sign Up](https://github.com/J0RG3-/Loopa/blob/main/Wireframes%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Registro.png?raw=true)
+![Login](https://github.com/J0RG3-/Loopa/blob/main/Wireframes%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Login.png?raw=true)
+![Email Confirmation](https://github.com/J0RG3-/Loopa/blob/main/Wireframes%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Correo%20confirmaci%C3%B3n.png?raw=true)
+
+### Main Interface & profile view
+![Home](https://github.com/J0RG3-/Loopa/blob/main/Wireframes%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Home.png?raw=true)
+![Profile](https://github.com/J0RG3-/Loopa/blob/main/Wireframes%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Perfil.png?raw=true)
+
+### Recycling Features & navigation
+![Waste Scanner](https://github.com/J0RG3-/Loopa/blob/main/Wireframes%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Esc%C3%A1ner%20de%20residuos.png?raw=true)
+![Complete Recycling](https://github.com/J0RG3-/Loopa/blob/main/Wireframes%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Completar%20reciclaje.png?raw=true)
+![Recycling Point Details](https://github.com/J0RG3-/Loopa/blob/main/Wireframes%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Detalle%20punto%20limpio.png?raw=true)
+![Map](https://github.com/J0RG3-/Loopa/blob/main/Wireframes%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Mapa.png?raw=true)
+
+### Confirmations and Feedback
+![Account Creation Confirmation](https://github.com/J0RG3-/Loopa/blob/main/Wireframes%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Confirmaci%C3%B3n%20creaci%C3%B3n%20cuenta.png?raw=true)
+![Recycling Confirmation](https://github.com/J0RG3-/Loopa/blob/main/Wireframes%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Confirmaci%C3%B3n%20reciclaje.png?raw=true)
+
 ## 9. High-Fidelity Interfaces for Each Functionality
 Below are high-fidelity interface designs that reflect the final look and feel of the application. These detailed mockups incorporate visual style, branding, and user interaction elements to provide a realistic preview of the user experience for each core feature of the system.
+
+
+### Onboarding and Access
+![Splash screen](https://github.com/J0RG3-/Loopa/blob/main/Mockups%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Splash%20screen.png?raw=true)
+![Sign Up](https://github.com/J0RG3-/Loopa/blob/main/Mockups%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Registro.png?raw=true)
+![Login](https://github.com/J0RG3-/Loopa/blob/main/Mockups%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Login.png?raw=true)
+![Email Confirmation](https://github.com/J0RG3-/Loopa/blob/main/Mockups%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Correo%20confirmaci%C3%B3n.png?raw=true)
+
+### Main Interface & profile view
+![Home](https://github.com/J0RG3-/Loopa/blob/main/Mockups%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Home.png?raw=true)
+![Profile](https://github.com/J0RG3-/Loopa/blob/main/Mockups%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Perfil.png?raw=true)
+
+### Recycling Features and Navigation
+![Waste Scanner](https://github.com/J0RG3-/Loopa/blob/main/Mockups%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Esc%C3%A1ner%20de%20residuos.png?raw=true)
+![Waste Scanner Result](https://github.com/J0RG3-/Loopa/blob/main/Mockups%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Esc%C3%A1ner%20de%20residuos%20resultado.png?raw=true)
+![Complete Recycling](https://github.com/J0RG3-/Loopa/blob/main/Mockups%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Completar%20reciclaje.png?raw=true)
+![Recycling Point Details](https://github.com/J0RG3-/Loopa/blob/main/Mockups%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Detalle%20punto%20limpio.png?raw=true)
+![Map](https://github.com/J0RG3-/Loopa/blob/main/Mockups%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Mapa.png?raw=true)
+
+### Confirmations and Feedback
+![Account Creation Confirmation](https://github.com/J0RG3-/Loopa/blob/main/Mockups%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Confirmaci%C3%B3n%20creaci%C3%B3n%20cuenta.png?raw=true)
+![Recycling Confirmation](https://github.com/J0RG3-/Loopa/blob/main/Mockups%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Confirmaci%C3%B3n%20reciclaje.png?raw=true)
 
 
 
