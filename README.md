@@ -1,3 +1,8 @@
+## LOOPA App
+
+Loopa is a user-friendly mobile app designed to simplify recycling in Chile. It helps users identify recyclable waste by scanning items, locate nearby recycling points, and track their recycling activities. Loopa also provides educational tips and incentives to encourage sustainable habits and make recycling easier and more rewarding for everyone.
+
+
 ## Table of Contents
 
 - [1. Introduction](#1-introduction)
