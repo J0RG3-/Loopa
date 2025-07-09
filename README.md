@@ -125,10 +125,12 @@ Below are high-fidelity interface designs that reflect the final look and feel o
 
 
 
+
+
 ## 10. High-Fidelity Interfaces for Each Functionality - UPDATED VERSION
 
-Figma Link to updated version of interfaces
-![UPDATED INTERFACES](https://www.figma.com/design/WRhV0ktRe0DaZLM65cEoMn/Wireframes---App-de-optimizaci%C3%B3n-de-reciclaje--Copy-?node-id=4115-3511&t=yh4WeN0bG0sACBl0-1)
+🔗 [Figma Link to Updated Interfaces](https://www.figma.com/design/WRhV0ktRe0DaZLM65cEoMn/Wireframes---App-de-optimizaci%C3%B3n-de-reciclaje--Copy-?node-id=4115-3511&t=yh4WeN0bG0sACBl0-1)
+
 
 
 
