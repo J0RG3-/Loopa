@@ -14,6 +14,7 @@ Loopa is a user-friendly mobile app designed to simplify recycling in Chile. It 
 - [7. Customer Journey Map](#7-customer-journey-map)
 - [8. Low-Fidelity Proposal (Initial Mockups)](#8-low-fidelity-proposal-initial-mockups)
 - [9. High-Fidelity Interfaces](#9-high-fidelity-interfaces-for-each-functionality)
+- [10. High-Fidelity Interfaces for Each Functionality - UPDATED VERSION](#10-high-fidelity-interfaces-for-each-functionality---updated-version)
 
 ## 1. Introduction
 
@@ -122,6 +123,12 @@ Below are high-fidelity interface designs that reflect the final look and feel o
 ![Account Creation Confirmation](https://github.com/J0RG3-/Loopa/blob/main/Mockups%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Confirmaci%C3%B3n%20creaci%C3%B3n%20cuenta.png?raw=true)
 ![Recycling Confirmation](https://github.com/J0RG3-/Loopa/blob/main/Mockups%20-%20App%20de%20optimizaci%C3%B3n%20de%20reciclaje/Confirmaci%C3%B3n%20reciclaje.png?raw=true)
 
+
+
+## 10. High-Fidelity Interfaces for Each Functionality - UPDATED VERSION
+
+Figma Link to updated version of interfaces
+![UPDATED INTERFACES](https://www.figma.com/design/WRhV0ktRe0DaZLM65cEoMn/Wireframes---App-de-optimizaci%C3%B3n-de-reciclaje--Copy-?node-id=4115-3511&t=yh4WeN0bG0sACBl0-1)
 
 
 
